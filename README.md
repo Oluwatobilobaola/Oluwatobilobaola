@@ -4,8 +4,6 @@ Hello,
 I am Olaide, an innovative Front End Web Developer with good experience in maintaining and building web pages and a Technical Writer who transforms technical or complex subjects into clear and concise documentation. I like to learn about new technologies and write technical articles.
 
 Skills:  REACTJS / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page.
 - 📫 How to reach me: olaideoluwatobiloba1@gmail.com 
 - 😄 Pronouns: She 
 
